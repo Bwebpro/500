@@ -1,11 +1,11 @@
 {
 	"name": "500",
-	"description": "Chat with other users in real-time using Durable Objects and PartyKit.",
+	"description": "Chat",
 	"cloudflare": {
-		"label": "Durable Chat App",
+		"label": "Chat",
 		"products": [
-			"Workers",
-			"Durable Objects"
+			"Chat",
+			"Simple Caht"
 		],
 		"categories": [],
 		"preview_icon_url": "https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/4554c09f-835e-45bc-b0a2-7c86e374ca00/public",
